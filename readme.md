@@ -18,9 +18,10 @@ Nova has administration screens for each model, actions, and relationships descr
 
 ## Setup
 1. Clone the repo
+2. Run `cp .env.example .env`
 2. Drop Nova into the project root at /nova (tested up to Nova release 1.0.12)
 3. Run `composer install`
-4. Run `cp .env.example .env && php artisan key:generate`
+4. Run `php artisan key:generate`
 5. Run `php artisan nova:install`
 6. Run `vendor/phpunit/phpunit/phpunit` from this directory
 
