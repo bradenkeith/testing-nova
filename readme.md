@@ -5,7 +5,7 @@ There is also an API that was utilized for front end access, so the example code
 
 
 ## Project Overview
-This is an app I made for a customer that required a dropbox style application with some custom fucntionality. Some of functionality has been scrubbed due to proprietary processes, as well as code being stripped due to premium themese, etc. What is left is a Nova code base focusing on:
+This is an app I made for a customer that required a dropbox style application with some custom fucntionality. Some of functionality has been scrubbed due to proprietary processes, as well as code being stripped due to premium themes, etc. What is left is a Nova code base focusing on:
 
 * Projects, they can have:
   * Files and Email Addresses
