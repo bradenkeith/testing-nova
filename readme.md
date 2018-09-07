@@ -17,7 +17,7 @@ This is an app I made for a customer that required a dropbox style application w
 Nova has administration screens for each model, actions, and relationships described above.
 
 ## Setup
-1. Unzip the App
+1. Clone the repo
 2. Run `cp .env.example .env && php artisan key:generate`
 3. Drop Nova into the project root at /nova (tested up to Nova release 1.0.12)
 4. Run `composer install`
