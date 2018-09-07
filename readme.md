@@ -1,5 +1,5 @@
 # Testing Nova
-This project is to show examples on my approach to testing Nova. This app is TDD, so everything created in this app should have a corresponding test. Tests are broken up into the the Feature directory under Nova and by model from there.
+This project is to show examples of my approach to testing Nova. This app is TDD, so all functionality _should_ have a corresponding test. Tests are broken up into the the Feature directory under Nova and by model from there.
 
 There is also an API that was utilized for front end access, so the example code of how I went about that is also in this project.
 
